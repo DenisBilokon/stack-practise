@@ -50,7 +50,6 @@ namespace stack
             Console.WriteLine(arrayStack.Peek());
 
 
-
             Console.ReadLine();
         }
     }
